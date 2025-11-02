@@ -1,0 +1,8 @@
+
+services:
+  app:
+    image: academico:latest 
+    ports:
+      - "8080:8080" 
+
+
